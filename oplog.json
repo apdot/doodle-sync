@@ -1,7 +1,0 @@
-{"note":[],"blob":[],"directory":[]}
-{"note":[],"directory":[],"blob":[]}
-{"note":[],"directory":[{"status":1,"updated_at":1756900889,"parent":"e5a18374-7372-4db7-a7d5-9ea14994c97d","synced_at":1756900895,"created_at":1756900889,"name":"world","uuid":"ce29f335-2578-40fd-a1a2-7266ec223340","id":41,"project":"x"},{"status":1,"updated_at":1756900891,"parent":"2d711642b726b04401627ca9fbac32f5c8530fb1903cc4db02258717921a4881","synced_at":1756900895,"created_at":1756900893,"name":"hello","uuid":"e5a18374-7372-4db7-a7d5-9ea14994c97d","id":40,"project":"x"}],"blob":[]}
-{"blob":[],"directory":[],"note":[]}
-{"blob":[],"directory":[{"project":"x","uuid":"e2d7fce5-7776-4aa8-816f-6533d1510521","name":"waa","id":42,"parent":"ce29f335-2578-40fd-a1a2-7266ec223340","synced_at":1756906260,"status":1,"created_at":1756906256,"updated_at":1756906256}],"note":[]}
-{"directory":[{"synced_at":1756906320,"created_at":1756906311,"status":1,"name":"AFSA","uuid":"618979da-78f6-411f-8122-c05826d386a9","updated_at":1756906311,"id":43,"parent":"bcb8efdb-c1e2-4b34-8cc3-610e428bb5c6","project":"x"}],"blob":[],"note":[]}
-{"blob":[],"note":[],"directory":[{"created_at":1756906420,"status":1,"id":44,"parent":"08e8e06a-1fb4-4bb4-bfe6-3010a260eb39","project":"x","uuid":"6ee6db86-f252-4faf-aa3f-27b37be601b5","updated_at":1756906419,"name":"susus","synced_at":1756906425}]}
